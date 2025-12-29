@@ -48,10 +48,10 @@ data/
 
 ## Supported Tasks by City
 
-| City   | Available Tasks       |
-|--------|----------------------|
-| Wuhan  | function, poi        |
-| Xi'an  | house, poi           |
+| City   | Available Tasks |
+|:------:|:---------------:|
+| Wuhan  | function, poi   |
+| Xi'an  | house, poi      |
 
 ## Usage
 
